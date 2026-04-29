@@ -1,5 +1,5 @@
+import asyncio
 from config import MONGO_URL
- asyncio
 from pyrogram import filters
 fimportrom pyrogram.errors import FloodWait
 from Extractor import app
